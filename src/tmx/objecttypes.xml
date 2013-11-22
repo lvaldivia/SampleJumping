@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="com.area51.elfder.objects.LittleBars" color="#550000"/>
+ <objecttype name="com.area51.elfder.objects.Prisioner" color="#ffffff"/>
+ <objecttype name="com.area51.elfder.objects.Switch" color="#ff0000"/>
+ <objecttype name="com.area51.elfder.objects.Elf" color="#00ff00"/>
+ <objecttype name="com.area51.elfder.objects.GoalDoor" color="#0055ff"/>
+ <objecttype name="citrus.objects.platformer.box2d.Platform" color="#ffff7f"/>
+ <objecttype name="citrus.objects.platformer.box2d.Sensor" color="#aaaa7f"/>
+ <objecttype name="com.area51.elfder.objects.Cloud" color="#aaffff"/>
+ <objecttype name="com.area51.elfder.objects.MovingCloud" color="#73adad"/>
+</objecttypes>
